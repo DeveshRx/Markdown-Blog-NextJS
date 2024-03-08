@@ -1,5 +1,6 @@
 # Markdown Blog with Next JS
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZNoyOI-IwYM?si=QFIdgaUMkUe7w-oA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Watch on YouTube: https://www.youtube.com/watch?v=ZNoyOI-IwYM
 
+[![Watch on YouTube](https://img.youtube.com/vi/ZNoyOI-IwYM/0.jpg)](https://www.youtube.com/watch?v=ZNoyOI-IwYM)
